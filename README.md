@@ -20,7 +20,7 @@ Made with Python 3, compiled with PyInstaller.
                 folder_with_images <br>
                   ┝ image001.jpeg <br>
                   ┝ convert_image001.png <br>
-                  ┝ someOtherImage.png       `will not generate a duplicate because it is already in the target format` <br>
+                  ┝ someOtherImage.png       `Will not generate a duplicate because it is already in the target format` <br>
                   ┝ AnotherImage.bmp <br>
                   ┕ convert_AnotherImage.png <br>
 
